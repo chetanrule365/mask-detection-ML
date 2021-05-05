@@ -1,0 +1,7 @@
+{
+  "name": "usingML",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
